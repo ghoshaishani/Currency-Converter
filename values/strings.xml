@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="currency_converter">CURRENCY CONVERTER</string>
+    <string name="enter_dollars">ENTER DOLLARS</string>
+    <string name="enter_euro">ENTER EURO</string>
+    <string name="enter_the_amount">Enter the Amount</string>
+
+    <string name="inr">INR</string>
+
+    <string name="todo">TODO</string>
+</resources>
